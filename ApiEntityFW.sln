@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiEntityFW", "ApiEntityFW\ApiEntityFW.csproj", "{FE28C46C-F8DD-4E2A-A9DD-4C9A8FF77B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE28C46C-F8DD-4E2A-A9DD-4C9A8FF77B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE28C46C-F8DD-4E2A-A9DD-4C9A8FF77B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE28C46C-F8DD-4E2A-A9DD-4C9A8FF77B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE28C46C-F8DD-4E2A-A9DD-4C9A8FF77B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486F044B-B34B-47F1-92AF-12F8CEF98D12}
+	EndGlobalSection
+EndGlobal
